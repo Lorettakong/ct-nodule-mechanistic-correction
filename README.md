@@ -1,10 +1,7 @@
-# Mechanistic Misspecification Correction for CT Nodule Trajectories
+# Uncertainty-Aware Mechanistic Misspecification Correction for Sparse Longitudinal CT-Derived Lung Nodule Trajectory Prediction
 
 This repository contains the code, processed tables, and manuscript-facing
-outputs for the study:
-
-**Uncertainty-Aware Mechanistic Misspecification Correction for Sparse
-Longitudinal CT-Derived Lung Nodule Trajectory Prediction**
+outputs for the study.
 
 The study evaluates sparse three-scan lung nodule trajectory prediction using
 CT-derived measurements from the NLSTt dataset. The proposed framework uses a
